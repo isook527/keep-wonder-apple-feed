@@ -1,0 +1,76 @@
+name: Sync Apple feed
+
+on:
+  schedule:
+    - cron: "23 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Fetch Ximalaya feed and rebuild Apple mirror
+        run: |
+          python3 - <<'PYEOF'
+          import re, urllib.request
+
+          SRC = "https://www.ximalaya.com/album/132235876.xml"
+          DESC = (
+              "Slow English | Every episode comes with a full English\u2013Chinese transcript. "
+              "Follow the show and message us to get it \U0001F4E9\n"
+              "A slow English podcast for learners. In simple English, we slowly talk about what happened "
+              "in AI today, what the technology really is, how ordinary people can use it, and the simplest "
+              "ideas about money. One question per episode, explained clearly.\n"
+              "Keep wondering, keep learning, keep listening."
+          )
+          SUB = (
+              "Slow English | Every episode comes with a full English\u2013Chinese transcript. "
+              "Follow the show and message us to get it \U0001F4E9"
+          )
+
+          def esc(t):
+              return t.replace("&", "&amp;").replace("<", "&lt;").replace(">", "&gt;")
+
+          def repl(head, tag, text):
+              p = re.compile(r"(<" + re.escape(tag) + r"(?:\s[^>]*)?>)(.*?)(</" + re.escape(tag) + r"\s*>)", re.DOTALL)
+              m = p.search(head)
+              if not m:
+                  return head, False
+              return head[: m.start()] + m.group(1) + esc(text) + m.group(3) + head[m.end():], True
+
+          req = urllib.request.Request(SRC, headers={"User-Agent": "Mozilla/5.0 (KeepWonderFeedSync)"})
+          with urllib.request.urlopen(req, timeout=30) as r:
+              xml = r.read().decode("utf-8")
+          idx = xml.find("<item")
+          assert idx != -1, "no items in source feed"
+          head, tail = xml[:idx], xml[idx:]
+          head, did_desc = repl(head, "description", DESC)
+          head, did_sum = repl(head, "itunes:summary", DESC)
+          head, _ = repl(head, "itunes:subtitle", SUB)
+          if not did_sum and did_desc:
+              m = re.search(r"</description\s*>", head)
+              if m:
+                  head = head[: m.end()] + "\n<itunes:summary>" + esc(DESC) + "</itunes:summary>" + head[m.end():]
+          out = head + tail
+          import xml.etree.ElementTree as ET
+          ET.fromstring(out)
+          assert out.count("<item>") == xml.count("<item>"), "item count changed"
+          with open("feed.xml", "w", encoding="utf-8") as f:
+              f.write(out)
+          print("feed.xml updated,", out.count("<item>"), "items")
+          PYEOF
+      - name: Commit if changed
+        run: |
+          git config user.name "keep-wonder-feed-bot"
+          git config user.email "feed-bot@localhost"
+          if git diff --quiet -- feed.xml; then
+            echo "feed.xml unchanged"
+          else
+            git add feed.xml
+            git commit -m "Sync Apple mirror feed from Ximalaya"
+            git push
+          fi
