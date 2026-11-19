@@ -1,0 +1,304 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <atom:link href="https://www.ximalaya.com/album/132235876.xml" type="application/rss+xml" rel="self"></atom:link>
+        <title><![CDATA[Keep Wonder]]></title>
+        <itunes:title><![CDATA[Keep Wonder]]></itunes:title>
+        <link>https://www.ximalaya.com/album/132235876</link>
+        <language>zh-cn</language>
+        <copyright><![CDATA[KeepWonder@喜马拉雅FM]]></copyright>
+        <itunes:author><![CDATA[KeepWonder]]></itunes:author>
+        <description>Slow English | Every episode comes with a full English–Chinese transcript. Follow the show and message us to get it 📩
+A slow English podcast for learners. In simple English, we slowly talk about what happened in AI today, what the technology really is, how ordinary people can use it, and the simplest ideas about money. One question per episode, explained clearly.
+Keep wondering, keep learning, keep listening.</description>
+<itunes:summary>Slow English | Every episode comes with a full English–Chinese transcript. Follow the show and message us to get it 📩
+A slow English podcast for learners. In simple English, we slowly talk about what happened in AI today, what the technology really is, how ordinary people can use it, and the simplest ideas about money. One question per episode, explained clearly.
+Keep wondering, keep learning, keep listening.</itunes:summary>
+        <itunes:type>episodic</itunes:type>
+        <itunes:owner>
+            <itunes:name><![CDATA[KeepWonder]]></itunes:name>
+            <itunes:email>isooktai@gmail.com</itunes:email>
+        </itunes:owner>
+        <itunes:image href="https://fdfs.xmcdn.com/storages/efa2-audiofreehighqps/C3/B6/GKwRIJEOww78AANepgT2swKw.jpeg"/>
+                <itunes:category text="Education">
+                <itunes:category text="Language Learning"/>
+                </itunes:category>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:block>No</itunes:block>
+        <itunes:complete>No</itunes:complete>
+
+            <item>
+                <itunes:episodeType>full</itunes:episodeType>
+                    <itunes:episode>1</itunes:episode>
+                <title><![CDATA[微软宕机一整天，全世界的邮箱都停了]]></title>
+                <itunes:title><![CDATA[微软宕机一整天，全世界的邮箱都停了]]></itunes:title>
+                <description>
+                    <![CDATA[<p style="color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;" data-flag="normal">第十三期：2026 年 11 月 12 日下午，微软 Microsoft 365 出了一次全球大宕机：Outlook 邮箱打不开，Teams、Copilot 也跟着停摆，70 多个国家受影响，Downdetector 收到 740 多万条故障报告，直到 11 月 14 日凌晨才全部恢复。这一期慢慢讲什么是“云”——你的邮件和 AI 助手其实住在别人家的大楼里；再讲一个最简单的钱的道理——债券，就是把钱借出去、收利息、到期拿回来。</p>]]>
+                </description>
+                <enclosure
+                        length="21427629"
+                        type="audio/x-m4a"
+                        url="https://jt.ximalaya.com//GKwRIDoO0_g6AKVwQQT9kLt4.m4a?channel=rss&amp;album_id=132235876&amp;track_id=1033936555&amp;uid=115661319&amp;jt=https://aod.cos.tx.xmcdn.com/storages/d264-audiofreehighqps/ED/35/GKwRIDoO0_g6AKVwQQT9kLt4.m4a"
+                />
+                <guid>xmly_track_1033936555</guid>
+                <pubDate>Wed, 18 Nov 2026 23:30:17 GMT</pubDate>
+                <itunes:duration>22:19</itunes:duration>
+                <itunes:explicit>false</itunes:explicit>
+                <itunes:image href="https://fdfs.xmcdn.com/storages/237c-audiofreehighqps/B5/AD/GAqh5RAOwRadAACPCAT11Nnh.jpg"></itunes:image>
+                <link>https://www.ximalaya.com/sound/1033936555</link>
+                <itunes:block>No</itunes:block>
+            </item>
+            <item>
+                <itunes:episodeType>full</itunes:episodeType>
+                    <itunes:episode>2</itunes:episode>
+                <title><![CDATA[ChatGPT 会替你付钱了，但它看不到你的卡号]]></title>
+                <itunes:title><![CDATA[ChatGPT 会替你付钱了，但它看不到你的卡号]]></itunes:title>
+                <description>
+                    <![CDATA[<p style="color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;" data-flag="normal">第十二期：OpenAI 在 2026 年 11 月 13 日推出 ChatGPT Wallet，ChatGPT 里的小助手 dot 能替你在线下单付款，但它从头到尾看不到你的真实卡号——付款用的是“替身”令牌，每一笔还必须你本人用 Face ID 或指纹点头。这一期慢慢讲 agent 为什么能办事又相对安全，再讲一个最简单的钱的道理——应急钱：先在银行里留够三个月的生活费，再谈别的。</p>]]>
+                </description>
+                <enclosure
+                        length="22562733"
+                        type="audio/x-m4a"
+                        url="https://jt.ximalaya.com//GKwRIRwO0qdPAK40BgT9CN1Y.m4a?channel=rss&amp;album_id=132235876&amp;track_id=1033677763&amp;uid=115661319&amp;jt=https://aod.cos.tx.xmcdn.com/storages/548e-audiofreehighqps/D1/C8/GKwRIRwO0qdPAK40BgT9CN1Y.m4a"
+                />
+                <guid>xmly_track_1033677763</guid>
+                <pubDate>Tue, 17 Nov 2026 23:32:45 GMT</pubDate>
+                <itunes:duration>23:30</itunes:duration>
+                <itunes:explicit>false</itunes:explicit>
+                <itunes:image href="https://fdfs.xmcdn.com/storages/237c-audiofreehighqps/B5/AD/GAqh5RAOwRadAACPCAT11Nnh.jpg"></itunes:image>
+                <link>https://www.ximalaya.com/sound/1033677763</link>
+                <itunes:block>No</itunes:block>
+            </item>
+            <item>
+                <itunes:episodeType>full</itunes:episodeType>
+                    <itunes:episode>3</itunes:episode>
+                <title><![CDATA[AI坐进你的视频会议，替你记笔记]]></title>
+                <itunes:title><![CDATA[AI坐进你的视频会议，替你记笔记]]></itunes:title>
+                <description>
+                    <![CDATA[<p style="color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;" data-flag="normal">第十一期：Anthropic 的 Claude 现在能坐进 Google Meet 视频会议，像一位看得见的参与者，边听边记笔记、列待办事项、起草计划，会后笔记自动整理好。这一期慢慢讲 AI 怎么“听”和“记”：先把说话变成文字，再把文字整理成重点；还有一个最简单的钱的道理——复利，为什么早开始、小额开始，时间会帮大忙。</p>]]>
+                </description>
+                <enclosure
+                        length="23343021"
+                        type="audio/x-m4a"
+                        url="https://jt.ximalaya.com//GKwRIMAO0OY_ALQ54gT8cEcb.m4a?channel=rss&amp;album_id=132235876&amp;track_id=1033255861&amp;uid=115661319&amp;jt=https://aod.cos.tx.xmcdn.com/storages/c2fa-audiofreehighqps/53/D1/GKwRIMAO0OY_ALQ54gT8cEcb.m4a"
+                />
+                <guid>xmly_track_1033255861</guid>
+                <pubDate>Mon, 16 Nov 2026 15:36:48 GMT</pubDate>
+                <itunes:duration>24:18</itunes:duration>
+                <itunes:explicit>false</itunes:explicit>
+                <itunes:image href="https://fdfs.xmcdn.com/storages/237c-audiofreehighqps/B5/AD/GAqh5RAOwRadAACPCAT11Nnh.jpg"></itunes:image>
+                <link>https://www.ximalaya.com/sound/1033255861</link>
+                <itunes:block>No</itunes:block>
+            </item>
+            <item>
+                <itunes:episodeType>full</itunes:episodeType>
+                    <itunes:episode>4</itunes:episode>
+                <title><![CDATA[阿里 Qwen4 来了，先出的是预览版]]></title>
+                <itunes:title><![CDATA[阿里 Qwen4 来了，先出的是预览版]]></itunes:title>
+                <description>
+                    <![CDATA[<p style="color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;" data-flag="normal">第十期：11 月 11 日，阿里官方 Qwen 账号发文“Qwen4 is coming”，Qwen4-Max 预览版上线 Token Plan 订阅和 Qwen 应用，预览到 11 月 25 日结束；跑分、参数和正式发布日期都还没有公布。这一期慢慢讲 AI 模型为什么一代一代出、预览版和正式版有什么不一样，以及最简单的钱的道理：开始不用等有钱，小额、定期就能开始。</p>]]>
+                </description>
+                <enclosure
+                        length="23381421"
+                        type="audio/x-m4a"
+                        url="https://jt.ximalaya.com//GKwRIMAO0FD6ALSGPQT8E0Bt.m4a?channel=rss&amp;album_id=132235876&amp;track_id=1033045370&amp;uid=115661319&amp;jt=https://aod.cos.tx.xmcdn.com/storages/7cd1-audiofreehighqps/3A/F1/GKwRIMAO0FD6ALSGPQT8E0Bt.m4a"
+                />
+                <guid>xmly_track_1033045370</guid>
+                <pubDate>Mon, 16 Nov 2026 04:59:44 GMT</pubDate>
+                <itunes:duration>24:21</itunes:duration>
+                <itunes:explicit>false</itunes:explicit>
+                <itunes:image href="https://fdfs.xmcdn.com/storages/237c-audiofreehighqps/B5/AD/GAqh5RAOwRadAACPCAT11Nnh.jpg"></itunes:image>
+                <link>https://www.ximalaya.com/sound/1033045370</link>
+                <itunes:block>No</itunes:block>
+            </item>
+            <item>
+                <itunes:episodeType>full</itunes:episodeType>
+                    <itunes:episode>5</itunes:episode>
+                <title><![CDATA[Anthropic 要上市了——一家 AI 公司值多少钱？]]></title>
+                <itunes:title><![CDATA[Anthropic 要上市了——一家 AI 公司值多少钱？]]></itunes:title>
+                <description>
+                    <![CDATA[<p style="color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;" data-flag="normal">第九期：11 月 10 日，Claude 背后的 Anthropic 更新上市文件，定价每股 70–78 美元，计划 11 月 19 日在纳斯达克上市，代码 ANT，估值最高约 1.4 万亿美元。这一期慢慢讲一家 AI 公司靠什么赚钱，以及最简单的钱的道理：股票——买股票就是拥有一家公司的一小块。</p>]]>
+                </description>
+                <enclosure
+                        length="19881261"
+                        type="audio/x-m4a"
+                        url="https://jt.ximalaya.com//GKwRIaIOzrQ7AJmAcQT7eGvh.m4a?channel=rss&amp;album_id=132235876&amp;track_id=1032800055&amp;uid=115661319&amp;jt=https://aod.cos.tx.xmcdn.com/storages/ac53-audiofreehighqps/04/47/GKwRIaIOzrQ7AJmAcQT7eGvh.m4a"
+                />
+                <guid>xmly_track_1032800055</guid>
+                <pubDate>Sat, 14 Nov 2026 23:38:55 GMT</pubDate>
+                <itunes:duration>20:42</itunes:duration>
+                <itunes:explicit>false</itunes:explicit>
+                <itunes:image href="https://fdfs.xmcdn.com/storages/237c-audiofreehighqps/B5/AD/GAqh5RAOwRadAACPCAT11Nnh.jpg"></itunes:image>
+                <link>https://www.ximalaya.com/sound/1032800055</link>
+                <itunes:block>No</itunes:block>
+            </item>
+            <item>
+                <itunes:episodeType>full</itunes:episodeType>
+                    <itunes:episode>6</itunes:episode>
+                <title><![CDATA[AI 需要护栏吗？]]></title>
+                <itunes:title><![CDATA[AI 需要护栏吗？]]></itunes:title>
+                <description>
+                    <![CDATA[<p style="color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;" data-flag="normal">第八期：11 月 8 日，特朗普在 CBS《60 分钟》采访中谈 AI，说风险可以管住，“不介意护栏”，但不想让美国落到第二位。这一期慢慢讲什么是 AI 护栏，以及最简单的钱的道理：通货膨胀——放着不动的钱会变小。</p>]]>
+                </description>
+                <enclosure
+                        length="10724205"
+                        type="audio/x-m4a"
+                        url="https://jt.ximalaya.com//GKwRIRwOzio8AKWa1wT7UqfR.m4a?channel=rss&amp;album_id=132235876&amp;track_id=1032693793&amp;uid=115661319&amp;jt=https://aod.cos.tx.xmcdn.com/storages/00bd-audiofreehighqps/61/4B/GKwRIRwOzio8AKWa1wT7UqfR.m4a"
+                />
+                <guid>xmly_track_1032693793</guid>
+                <pubDate>Sat, 14 Nov 2026 13:50:08 GMT</pubDate>
+                <itunes:duration>22:20</itunes:duration>
+                <itunes:explicit>false</itunes:explicit>
+                <itunes:image href="https://fdfs.xmcdn.com/storages/237c-audiofreehighqps/B5/AD/GAqh5RAOwRadAACPCAT11Nnh.jpg"></itunes:image>
+                <link>https://www.ximalaya.com/sound/1032693793</link>
+                <itunes:block>No</itunes:block>
+            </item>
+            <item>
+                <itunes:episodeType>full</itunes:episodeType>
+                    <itunes:episode>7</itunes:episode>
+                <title><![CDATA[Siri 要学会帮你办事了]]></title>
+                <itunes:title><![CDATA[Siri 要学会帮你办事了]]></itunes:title>
+                <description>
+                    <![CDATA[<p style="color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;" data-flag="normal">第七期：11 月 8 日，The Verge 报道苹果正在加紧让 Siri 变得更像 agent，能替你办事，不只是回答问题。这一期慢慢讲什么是 AI agent，以及最简单的钱的道理：看清基金的费用。</p>]]>
+                </description>
+                <enclosure
+                        length="12178797"
+                        type="audio/x-m4a"
+                        url="https://jt.ximalaya.com//GKwRIDoOzA93ALwPxQT6dbOc.m4a?channel=rss&amp;album_id=132235876&amp;track_id=1032268052&amp;uid=115661319&amp;jt=https://aod.cos.tx.xmcdn.com/storages/93f7-audiofreehighqps/9D/B7/GKwRIDoOzA93ALwPxQT6dbOc.m4a"
+                />
+                <guid>xmly_track_1032268052</guid>
+                <pubDate>Thu, 12 Nov 2026 23:31:22 GMT</pubDate>
+                <itunes:duration>25:22</itunes:duration>
+                <itunes:explicit>false</itunes:explicit>
+                <itunes:image href="https://fdfs.xmcdn.com/storages/237c-audiofreehighqps/B5/AD/GAqh5RAOwRadAACPCAT11Nnh.jpg"></itunes:image>
+                <link>https://www.ximalaya.com/sound/1032268052</link>
+                <itunes:block>No</itunes:block>
+            </item>
+            <item>
+                <itunes:episodeType>full</itunes:episodeType>
+                    <itunes:episode>8</itunes:episode>
+                <title><![CDATA[OpenAI 融到 110 亿美元，到底值多少钱？]]></title>
+                <itunes:title><![CDATA[OpenAI 融到 110 亿美元，到底值多少钱？]]></itunes:title>
+                <description>
+                    <![CDATA[<p style="color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;" data-flag="normal">第六期：2026 年 11 月 6 日，彭博社报道 OpenAI 融到 110 亿美元，估值 1.25 万亿美元；这轮融资还没结束，可能扩大到 200 亿美元。这一期慢慢讲一家公司“值多少钱”是什么意思，以及最简单的钱的道理：基金就是一个篮子。</p>]]>
+                </description>
+                <enclosure
+                        length="11986413"
+                        type="audio/x-m4a"
+                        url="https://jt.ximalaya.com//GKwRIW4Oyr4cALkXHgT59Lf0.m4a?channel=rss&amp;album_id=132235876&amp;track_id=1032050828&amp;uid=115661319&amp;jt=https://aod.cos.tx.xmcdn.com/storages/4eeb-audiofreehighqps/CD/70/GKwRIW4Oyr4cALkXHgT59Lf0.m4a"
+                />
+                <guid>xmly_track_1032050828</guid>
+                <pubDate>Wed, 11 Nov 2026 23:32:06 GMT</pubDate>
+                <itunes:duration>24:58</itunes:duration>
+                <itunes:explicit>false</itunes:explicit>
+                <itunes:image href="https://fdfs.xmcdn.com/storages/237c-audiofreehighqps/B5/AD/GAqh5RAOwRadAACPCAT11Nnh.jpg"></itunes:image>
+                <link>https://www.ximalaya.com/sound/1032050828</link>
+                <itunes:block>No</itunes:block>
+            </item>
+            <item>
+                <itunes:episodeType>full</itunes:episodeType>
+                    <itunes:episode>9</itunes:episode>
+                <title><![CDATA[AI 学会了阿姆的歌——它问过吗？]]></title>
+                <itunes:title><![CDATA[AI 学会了阿姆的歌——它问过吗？]]></itunes:title>
+                <description>
+                    <![CDATA[<p style="color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;" data-flag="normal">第五期：2026 年 11 月 6 日，Eminem 的出版公司起诉 AI 音乐公司 Suno，称其未经许可就用 269 首歌训练 AI；同一天，Elvis 的权利人也起诉了 Suno。这一期慢慢讲 AI 是怎么学会音乐的、版权是什么意思，以及最简单的钱的道理：分开来放。</p>]]>
+                </description>
+                <enclosure
+                        length="12419541"
+                        type="audio/x-m4a"
+                        url="https://jt.ximalaya.com//GKwRIJIOyW4WAMLKPQT5b1ra.m4a?channel=rss&amp;album_id=132235876&amp;track_id=1031822282&amp;uid=115661319&amp;jt=https://aod.cos.tx.xmcdn.com/storages/5a3a-audiofreehighqps/E3/A4/GKwRIJIOyW4WAMLKPQT5b1ra.m4a"
+                />
+                <guid>xmly_track_1031822282</guid>
+                <pubDate>Tue, 10 Nov 2026 23:38:27 GMT</pubDate>
+                <itunes:duration>26:16</itunes:duration>
+                <itunes:explicit>false</itunes:explicit>
+                <itunes:image href="https://fdfs.xmcdn.com/storages/237c-audiofreehighqps/B5/AD/GAqh5RAOwRadAACPCAT11Nnh.jpg"></itunes:image>
+                <link>https://www.ximalaya.com/sound/1031822282</link>
+                <itunes:block>No</itunes:block>
+            </item>
+            <item>
+                <itunes:episodeType>full</itunes:episodeType>
+                    <itunes:episode>10</itunes:episode>
+                <title><![CDATA[Google 花 170 亿美元，在怀俄明州慢慢种一棵树]]></title>
+                <itunes:title><![CDATA[Google 花 170 亿美元，在怀俄明州慢慢种一棵树]]></itunes:title>
+                <description>
+                    <![CDATA[<p style="color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;" data-flag="normal">Google 要在怀俄明州建第一个数据中心，投资 170 亿美元，计划待几十年。AI 很快，但它背后的楼、电、水和人，都很慢。今天我们聊聊：想钱，按年来想，而不是按天。<br></p>]]>
+                </description>
+                <enclosure
+                        length="12095085"
+                        type="audio/x-m4a"
+                        url="https://jt.ximalaya.com//GKwRIaIOyBvvALrFXQT40UTm.m4a?channel=rss&amp;album_id=132235876&amp;track_id=1031578726&amp;uid=115661319&amp;jt=https://aod.cos.tx.xmcdn.com/storages/d502-audiofreehighqps/A0/53/GKwRIaIOyBvvALrFXQT40UTm.m4a"
+                />
+                <guid>xmly_track_1031578726</guid>
+                <pubDate>Mon, 09 Nov 2026 23:35:32 GMT</pubDate>
+                <itunes:duration>25:11</itunes:duration>
+                <itunes:explicit>false</itunes:explicit>
+                <itunes:image href="https://fdfs.xmcdn.com/storages/237c-audiofreehighqps/B5/AD/GAqh5RAOwRadAACPCAT11Nnh.jpg"></itunes:image>
+                <link>https://www.ximalaya.com/sound/1031578726</link>
+                <itunes:block>No</itunes:block>
+            </item>
+            <item>
+                <itunes:episodeType>full</itunes:episodeType>
+                    <itunes:episode>11</itunes:episode>
+                <title><![CDATA[AI短剧新规：扶持真人剧，规范AI剧]]></title>
+                <itunes:title><![CDATA[AI短剧新规：扶持真人剧，规范AI剧]]></itunes:title>
+                <description>
+                    <![CDATA[<p style="color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;" data-flag="normal">第三期：广电总局 11 月 5 日表态，扶持真人剧、规范 AI 剧。这一期慢慢讲 AI 短剧是什么、平台为什么要全部人审，以及一个最简单的钱道理：一天的好坏不是全部，慢一点、稳一点才走得远。<br></p>]]>
+                </description>
+                <enclosure
+                        length="12424557"
+                        type="audio/x-m4a"
+                        url="https://jt.ximalaya.com//GKwRIJEOxvpNAL_aZwT4TOO0.m4a?channel=rss&amp;album_id=132235876&amp;track_id=1031319631&amp;uid=115661319&amp;jt=https://aod.cos.tx.xmcdn.com/storages/89d3-audiofreehighqps/1C/9F/GKwRIJEOxvpNAL_aZwT4TOO0.m4a"
+                />
+                <guid>xmly_track_1031319631</guid>
+                <pubDate>Mon, 09 Nov 2026 02:59:41 GMT</pubDate>
+                <itunes:duration>25:53</itunes:duration>
+                <itunes:explicit>false</itunes:explicit>
+                <itunes:image href="https://fdfs.xmcdn.com/storages/237c-audiofreehighqps/B5/AD/GAqh5RAOwRadAACPCAT11Nnh.jpg"></itunes:image>
+                <link>https://www.ximalaya.com/sound/1031319631</link>
+                <itunes:block>No</itunes:block>
+            </item>
+            <item>
+                <itunes:episodeType>full</itunes:episodeType>
+                    <itunes:episode>12</itunes:episode>
+                <title><![CDATA[AI 股价一天大跌：风险到底是什么？]]></title>
+                <itunes:title><![CDATA[AI 股价一天大跌：风险到底是什么？]]></itunes:title>
+                <description>
+                    <![CDATA[第二期：AI 股价一天大跌。纳斯达克跌了 5.5%，英伟达跌了约 9%。这一期慢慢讲股价为什么会跌、AI 公司为什么要花那么多钱建数据中心，以及最简单的钱的道理：风险到底是什么。]]>
+                </description>
+                <enclosure
+                        length="12442029"
+                        type="audio/x-m4a"
+                        url="https://jt.ximalaya.com//GKwRIaIOxQaiAMAfaQT3nfWa.m4a?channel=rss&amp;album_id=132235876&amp;track_id=1030993737&amp;uid=115661319&amp;jt=https://aod.cos.tx.xmcdn.com/storages/819f-audiofreehighqps/CC/C9/GKwRIaIOxQaiAMAfaQT3nfWa.m4a"
+                />
+                <guid>xmly_track_1030993737</guid>
+                <pubDate>Sun, 08 Nov 2026 00:30:00 GMT</pubDate>
+                <itunes:duration>25:55</itunes:duration>
+                <itunes:explicit>false</itunes:explicit>
+                <itunes:image href="https://fdfs.xmcdn.com/storages/6f07-audiofreehighqps/53/57/GKwRIJEOxQZxAACPCAT3neEe.jpg"></itunes:image>
+                <link>https://www.ximalaya.com/sound/1030993737</link>
+                <itunes:block>No</itunes:block>
+            </item>
+            <item>
+                <itunes:episodeType>full</itunes:episodeType>
+                    <itunes:episode>13</itunes:episode>
+                <title><![CDATA[AI 停止按钮：给 AI 助手装个刹车]]></title>
+                <itunes:title><![CDATA[AI 停止按钮：给 AI 助手装个刹车]]></itunes:title>
+                <description>
+                    <![CDATA[第一期：AI 停止按钮<br>AI 助手能帮你回邮件、订行程，但快也意味着错得快<br>这一期慢慢讲停止按钮怎么工作、钱的规则，和人要留住的判断]]>
+                </description>
+                <enclosure
+                        length="12376941"
+                        type="audio/x-m4a"
+                        url="https://jt.ximalaya.com//GKwRIRwOwjDhAL8ecQT2WYEh.m4a?channel=rss&amp;album_id=132235876&amp;track_id=1030506304&amp;uid=115661319&amp;jt=https://aod.cos.tx.xmcdn.com/storages/c995-audiofreehighqps/6B/75/GKwRIRwOwjDhAL8ecQT2WYEh.m4a"
+                />
+                <guid>xmly_track_1030506304</guid>
+                <pubDate>Thu, 05 Nov 2026 11:51:14 GMT</pubDate>
+                <itunes:duration>25:47</itunes:duration>
+                <itunes:explicit>false</itunes:explicit>
+                <itunes:image href="https://fdfs.xmcdn.com/storages/9aa4-audiofreehighqps/E7/4C/GAqhbygOwjCuAACPCAT2WWYg.jpg"></itunes:image>
+                <link>https://www.ximalaya.com/sound/1030506304</link>
+                <itunes:block>No</itunes:block>
+            </item>
+    </channel>
+</rss>
