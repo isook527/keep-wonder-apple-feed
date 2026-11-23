@@ -19,6 +19,7 @@ jobs:
           import re, urllib.request
 
           SRC = "https://www.ximalaya.com/album/132235876.xml"
+          TITLE = "Keep Wonder | Slow English"
           DESC = (
               "Slow English | Every episode comes with a full English\u2013Chinese transcript. "
               "Follow the show and message us to get it \U0001F4E9\n"
@@ -42,12 +43,47 @@ jobs:
                   return head, False
               return head[: m.start()] + m.group(1) + esc(text) + m.group(3) + head[m.end():], True
 
+          def repl_title(head, tag, text):
+              # Channel <title>/<itunes:title> in the source wrap the name in CDATA;
+              # replace the whole inner content (CDATA or plain) and write CDATA back.
+              p = re.compile(
+                  r"(<" + re.escape(tag) + r"(?:\s[^>]*)?>)"
+                  r"(?:<!\[CDATA\[.*?\]\]>|.*?)"
+                  r"(</" + re.escape(tag) + r"\s*>)",
+                  re.DOTALL,
+              )
+              m = p.search(head)
+              if not m:
+                  return head, False
+              return head[: m.start()] + m.group(1) + "<![CDATA[" + text + "]]>" + m.group(2) + head[m.end():], True
+
+          def add_tech_category(head):
+              # Add a top-level Technology category next to the existing one.
+              # The existing top-level category wraps a self-closing child, so the
+              # first literal </itunes:category> closes the top-level element.
+              if 'text="Technology"' in head:
+                  return head, False
+              p = re.compile(r"(<itunes:category\b[^>]*>.*?</itunes:category\s*>)", re.DOTALL)
+              m = p.search(head)
+              if m:
+                  return head[: m.end()] + "\n                <itunes:category text=\"Technology\"/>" + head[m.end():], True
+              p2 = re.compile(r"(<itunes:category\b[^>]*/>)")
+              m2 = p2.search(head)
+              if m2:
+                  return head[: m2.end()] + "\n                <itunes:category text=\"Technology\"/>" + head[m2.end():], True
+              return head, False
+
           req = urllib.request.Request(SRC, headers={"User-Agent": "Mozilla/5.0 (KeepWonderFeedSync)"})
           with urllib.request.urlopen(req, timeout=30) as r:
               xml = r.read().decode("utf-8")
           idx = xml.find("<item")
           assert idx != -1, "no items in source feed"
           head, tail = xml[:idx], xml[idx:]
+          head, did_title = repl_title(head, "title", TITLE)
+          head, did_ititle = repl_title(head, "itunes:title", TITLE)
+          assert did_title and did_ititle, "channel title elements not found"
+          head, did_tech = add_tech_category(head)
+          assert did_tech or 'text="Technology"' in head, "category insertion failed"
           head, did_desc = repl(head, "description", DESC)
           head, did_sum = repl(head, "itunes:summary", DESC)
           head, _ = repl(head, "itunes:subtitle", SUB)
@@ -59,6 +95,8 @@ jobs:
           import xml.etree.ElementTree as ET
           ET.fromstring(out)
           assert out.count("<item>") == xml.count("<item>"), "item count changed"
+          assert "<![CDATA[Keep Wonder | Slow English]]>" in out, "new show title missing"
+          assert 'text="Technology"' in out, "Technology category missing"
           with open("feed.xml", "w", encoding="utf-8") as f:
               f.write(out)
           print("feed.xml updated,", out.count("<item>"), "items")
