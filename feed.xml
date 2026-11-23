@@ -2,8 +2,8 @@
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <atom:link href="https://www.ximalaya.com/album/132235876.xml" type="application/rss+xml" rel="self"></atom:link>
-        <title><![CDATA[Keep Wonder]]></title>
-        <itunes:title><![CDATA[Keep Wonder]]></itunes:title>
+        <title><![CDATA[Keep Wonder | Slow English]]></title>
+        <itunes:title><![CDATA[Keep Wonder | Slow English]]></itunes:title>
         <link>https://www.ximalaya.com/album/132235876</link>
         <language>zh-cn</language>
         <copyright><![CDATA[KeepWonder@喜马拉雅FM]]></copyright>
@@ -23,6 +23,7 @@ Keep wondering, keep learning, keep listening.</itunes:summary>
                 <itunes:category text="Education">
                 <itunes:category text="Language Learning"/>
                 </itunes:category>
+                <itunes:category text="Technology"/>
         <itunes:explicit>false</itunes:explicit>
         <itunes:block>No</itunes:block>
         <itunes:complete>No</itunes:complete>
