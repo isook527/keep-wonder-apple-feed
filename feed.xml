@@ -31,6 +31,27 @@ Keep wondering, keep learning, keep listening.</itunes:summary>
             <item>
                 <itunes:episodeType>full</itunes:episodeType>
                     <itunes:episode>1</itunes:episode>
+                <title><![CDATA[AI股票一天暴跌，纳斯达克把今年的涨幅全吐回去了]]></title>
+                <itunes:title><![CDATA[AI股票一天暴跌，纳斯达克把今年的涨幅全吐回去了]]></itunes:title>
+                <description>
+                    <![CDATA[<p style="color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;" data-flag="normal">第十九期：11月20日，美股大跌，纳斯达克一天跌5.3%，把今年的涨幅全部跌没了；Anthropic上市第二天跌8.5%，英伟达一周跌23%。本期慢慢讲清：训练AI为什么这么贵，以及借钱的真正代价——利息不停，跌幅翻倍。<br></p>]]>
+                </description>
+                <enclosure
+                        length="20318253"
+                        type="audio/x-m4a"
+                        url="https://jt.ximalaya.com//GKwRIaIO2-GQAJzf4wUAzrR6.m4a?channel=rss&amp;album_id=132235876&amp;track_id=1035421461&amp;uid=115661319&amp;jt=https://aod.cos.tx.xmcdn.com/storages/a84a-audiofreehighqps/E2/09/GKwRIaIO2-GQAJzf4wUAzrR6.m4a"
+                />
+                <guid>xmly_track_1035421461</guid>
+                <pubDate>Tue, 24 Nov 2026 23:32:02 GMT</pubDate>
+                <itunes:duration>21:09</itunes:duration>
+                <itunes:explicit>false</itunes:explicit>
+                <itunes:image href="https://fdfs.xmcdn.com/storages/237c-audiofreehighqps/B5/AD/GAqh5RAOwRadAACPCAT11Nnh.jpg"></itunes:image>
+                <link>https://www.ximalaya.com/sound/1035421461</link>
+                <itunes:block>No</itunes:block>
+            </item>
+            <item>
+                <itunes:episodeType>full</itunes:episodeType>
+                    <itunes:episode>2</itunes:episode>
                 <title><![CDATA[AI眼镜来了，但有人说：先别买]]></title>
                 <itunes:title><![CDATA[AI眼镜来了，但有人说：先别买]]></itunes:title>
                 <description>
@@ -51,7 +72,7 @@ Keep wondering, keep learning, keep listening.</itunes:summary>
             </item>
             <item>
                 <itunes:episodeType>full</itunes:episodeType>
-                    <itunes:episode>2</itunes:episode>
+                    <itunes:episode>3</itunes:episode>
                 <title><![CDATA[AI 造了一个世界，你可以走进去改它]]></title>
                 <itunes:title><![CDATA[AI 造了一个世界，你可以走进去改它]]></itunes:title>
                 <description>
@@ -72,7 +93,7 @@ Keep wondering, keep learning, keep listening.</itunes:summary>
             </item>
             <item>
                 <itunes:episodeType>full</itunes:episodeType>
-                    <itunes:episode>3</itunes:episode>
+                    <itunes:episode>4</itunes:episode>
                 <title><![CDATA[英伟达赚翻了，但老板刚走]]></title>
                 <itunes:title><![CDATA[英伟达赚翻了，但老板刚走]]></itunes:title>
                 <description>
@@ -93,7 +114,7 @@ Keep wondering, keep learning, keep listening.</itunes:summary>
             </item>
             <item>
                 <itunes:episodeType>full</itunes:episodeType>
-                    <itunes:episode>4</itunes:episode>
+                    <itunes:episode>5</itunes:episode>
                 <title><![CDATA[问 AI 健康问题，答案可信吗？]]></title>
                 <itunes:title><![CDATA[问 AI 健康问题，答案可信吗？]]></itunes:title>
                 <description>
@@ -114,7 +135,7 @@ Keep wondering, keep learning, keep listening.</itunes:summary>
             </item>
             <item>
                 <itunes:episodeType>full</itunes:episodeType>
-                    <itunes:episode>5</itunes:episode>
+                    <itunes:episode>6</itunes:episode>
                 <title><![CDATA[谷歌的 AI 能看你的账单了]]></title>
                 <itunes:title><![CDATA[谷歌的 AI 能看你的账单了]]></itunes:title>
                 <description>
@@ -135,7 +156,7 @@ Keep wondering, keep learning, keep listening.</itunes:summary>
             </item>
             <item>
                 <itunes:episodeType>full</itunes:episodeType>
-                    <itunes:episode>6</itunes:episode>
+                    <itunes:episode>7</itunes:episode>
                 <title><![CDATA[微软宕机一整天，全世界的邮箱都停了]]></title>
                 <itunes:title><![CDATA[微软宕机一整天，全世界的邮箱都停了]]></itunes:title>
                 <description>
@@ -156,7 +177,7 @@ Keep wondering, keep learning, keep listening.</itunes:summary>
             </item>
             <item>
                 <itunes:episodeType>full</itunes:episodeType>
-                    <itunes:episode>7</itunes:episode>
+                    <itunes:episode>8</itunes:episode>
                 <title><![CDATA[ChatGPT 会替你付钱了，但它看不到你的卡号]]></title>
                 <itunes:title><![CDATA[ChatGPT 会替你付钱了，但它看不到你的卡号]]></itunes:title>
                 <description>
@@ -177,7 +198,7 @@ Keep wondering, keep learning, keep listening.</itunes:summary>
             </item>
             <item>
                 <itunes:episodeType>full</itunes:episodeType>
-                    <itunes:episode>8</itunes:episode>
+                    <itunes:episode>9</itunes:episode>
                 <title><![CDATA[AI坐进你的视频会议，替你记笔记]]></title>
                 <itunes:title><![CDATA[AI坐进你的视频会议，替你记笔记]]></itunes:title>
                 <description>
@@ -198,7 +219,7 @@ Keep wondering, keep learning, keep listening.</itunes:summary>
             </item>
             <item>
                 <itunes:episodeType>full</itunes:episodeType>
-                    <itunes:episode>9</itunes:episode>
+                    <itunes:episode>10</itunes:episode>
                 <title><![CDATA[阿里 Qwen4 来了，先出的是预览版]]></title>
                 <itunes:title><![CDATA[阿里 Qwen4 来了，先出的是预览版]]></itunes:title>
                 <description>
@@ -219,7 +240,7 @@ Keep wondering, keep learning, keep listening.</itunes:summary>
             </item>
             <item>
                 <itunes:episodeType>full</itunes:episodeType>
-                    <itunes:episode>10</itunes:episode>
+                    <itunes:episode>11</itunes:episode>
                 <title><![CDATA[Anthropic 要上市了——一家 AI 公司值多少钱？]]></title>
                 <itunes:title><![CDATA[Anthropic 要上市了——一家 AI 公司值多少钱？]]></itunes:title>
                 <description>
@@ -240,7 +261,7 @@ Keep wondering, keep learning, keep listening.</itunes:summary>
             </item>
             <item>
                 <itunes:episodeType>full</itunes:episodeType>
-                    <itunes:episode>11</itunes:episode>
+                    <itunes:episode>12</itunes:episode>
                 <title><![CDATA[AI 需要护栏吗？]]></title>
                 <itunes:title><![CDATA[AI 需要护栏吗？]]></itunes:title>
                 <description>
@@ -261,7 +282,7 @@ Keep wondering, keep learning, keep listening.</itunes:summary>
             </item>
             <item>
                 <itunes:episodeType>full</itunes:episodeType>
-                    <itunes:episode>12</itunes:episode>
+                    <itunes:episode>13</itunes:episode>
                 <title><![CDATA[Siri 要学会帮你办事了]]></title>
                 <itunes:title><![CDATA[Siri 要学会帮你办事了]]></itunes:title>
                 <description>
@@ -282,7 +303,7 @@ Keep wondering, keep learning, keep listening.</itunes:summary>
             </item>
             <item>
                 <itunes:episodeType>full</itunes:episodeType>
-                    <itunes:episode>13</itunes:episode>
+                    <itunes:episode>14</itunes:episode>
                 <title><![CDATA[OpenAI 融到 110 亿美元，到底值多少钱？]]></title>
                 <itunes:title><![CDATA[OpenAI 融到 110 亿美元，到底值多少钱？]]></itunes:title>
                 <description>
@@ -303,7 +324,7 @@ Keep wondering, keep learning, keep listening.</itunes:summary>
             </item>
             <item>
                 <itunes:episodeType>full</itunes:episodeType>
-                    <itunes:episode>14</itunes:episode>
+                    <itunes:episode>15</itunes:episode>
                 <title><![CDATA[AI 学会了阿姆的歌——它问过吗？]]></title>
                 <itunes:title><![CDATA[AI 学会了阿姆的歌——它问过吗？]]></itunes:title>
                 <description>
@@ -324,7 +345,7 @@ Keep wondering, keep learning, keep listening.</itunes:summary>
             </item>
             <item>
                 <itunes:episodeType>full</itunes:episodeType>
-                    <itunes:episode>15</itunes:episode>
+                    <itunes:episode>16</itunes:episode>
                 <title><![CDATA[Google 花 170 亿美元，在怀俄明州慢慢种一棵树]]></title>
                 <itunes:title><![CDATA[Google 花 170 亿美元，在怀俄明州慢慢种一棵树]]></itunes:title>
                 <description>
@@ -345,7 +366,7 @@ Keep wondering, keep learning, keep listening.</itunes:summary>
             </item>
             <item>
                 <itunes:episodeType>full</itunes:episodeType>
-                    <itunes:episode>16</itunes:episode>
+                    <itunes:episode>17</itunes:episode>
                 <title><![CDATA[AI短剧新规：扶持真人剧，规范AI剧]]></title>
                 <itunes:title><![CDATA[AI短剧新规：扶持真人剧，规范AI剧]]></itunes:title>
                 <description>
@@ -366,7 +387,7 @@ Keep wondering, keep learning, keep listening.</itunes:summary>
             </item>
             <item>
                 <itunes:episodeType>full</itunes:episodeType>
-                    <itunes:episode>17</itunes:episode>
+                    <itunes:episode>18</itunes:episode>
                 <title><![CDATA[AI 股价一天大跌：风险到底是什么？]]></title>
                 <itunes:title><![CDATA[AI 股价一天大跌：风险到底是什么？]]></itunes:title>
                 <description>
@@ -387,7 +408,7 @@ Keep wondering, keep learning, keep listening.</itunes:summary>
             </item>
             <item>
                 <itunes:episodeType>full</itunes:episodeType>
-                    <itunes:episode>18</itunes:episode>
+                    <itunes:episode>19</itunes:episode>
                 <title><![CDATA[AI 停止按钮：给 AI 助手装个刹车]]></title>
                 <itunes:title><![CDATA[AI 停止按钮：给 AI 助手装个刹车]]></itunes:title>
                 <description>
