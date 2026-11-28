@@ -31,6 +31,27 @@ Keep wondering, keep learning, keep listening.</itunes:summary>
             <item>
                 <itunes:episodeType>full</itunes:episodeType>
                     <itunes:episode>1</itunes:episode>
+                <title><![CDATA[Kimi 不写代码了，改去搞科研了]]></title>
+                <itunes:title><![CDATA[Kimi 不写代码了，改去搞科研了]]></itunes:title>
+                <description>
+                    <![CDATA[<p style="color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;" data-flag="normal">第二十二期：写代码出名的 Kimi，宣布要转去搞科研了。本期慢慢讲清：它没有进实验室，只是在桌前读数据——3696 个细胞的数据，它 90 分钟读完，找出 100 个候选基因；不过这只是公司自己的演示，还没有别人验过。再把「读得快」换算成钱：你的一个小时，到底值多少钱？<br></p>]]>
+                </description>
+                <enclosure
+                        length="19494189"
+                        type="audio/x-m4a"
+                        url="https://jt.ximalaya.com//GKwRIUEO39YEAJaDZAUCvgk1.m4a?channel=rss&amp;album_id=132235876&amp;track_id=1036213494&amp;uid=115661319&amp;jt=https://podcast.xmcdn.com/storages/f3b8-audiofreehighqps/13/4E/GKwRIUEO39YEAJaDZAUCvgk1.m4a"
+                />
+                <guid>xmly_track_1036213494</guid>
+                <pubDate>Fri, 27 Nov 2026 23:31:42 GMT</pubDate>
+                <itunes:duration>20:18</itunes:duration>
+                <itunes:explicit>false</itunes:explicit>
+                <itunes:image href="https://fdfs.xmcdn.com/storages/237c-audiofreehighqps/B5/AD/GAqh5RAOwRadAACPCAT11Nnh.jpg"></itunes:image>
+                <link>https://www.ximalaya.com/sound/1036213494</link>
+                <itunes:block>No</itunes:block>
+            </item>
+            <item>
+                <itunes:episodeType>full</itunes:episodeType>
+                    <itunes:episode>2</itunes:episode>
                 <title><![CDATA[AI 说它解开了 167 年没人解开的数学题]]></title>
                 <itunes:title><![CDATA[AI 说它解开了 167 年没人解开的数学题]]></itunes:title>
                 <description>
@@ -39,7 +60,7 @@ Keep wondering, keep learning, keep listening.</itunes:summary>
                 <enclosure
                         length="20418861"
                         type="audio/x-m4a"
-                        url="https://jt.ximalaya.com//GKwRIW4O3oTSAJ2nmQUCEvg-.m4a?channel=rss&amp;album_id=132235876&amp;track_id=1035943459&amp;uid=115661319&amp;jt=https://aod.cos.tx.xmcdn.com/storages/aae4-audiofreehighqps/2F/47/GKwRIW4O3oTSAJ2nmQUCEvg-.m4a"
+                        url="https://jt.ximalaya.com//GKwRIW4O3oTSAJ2nmQUCEvg-.m4a?channel=rss&amp;album_id=132235876&amp;track_id=1035943459&amp;uid=115661319&amp;jt=https://podcast.xmcdn.com/storages/aae4-audiofreehighqps/2F/47/GKwRIW4O3oTSAJ2nmQUCEvg-.m4a"
                 />
                 <guid>xmly_track_1035943459</guid>
                 <pubDate>Thu, 26 Nov 2026 23:33:13 GMT</pubDate>
@@ -51,7 +72,7 @@ Keep wondering, keep learning, keep listening.</itunes:summary>
             </item>
             <item>
                 <itunes:episodeType>full</itunes:episodeType>
-                    <itunes:episode>2</itunes:episode>
+                    <itunes:episode>3</itunes:episode>
                 <title><![CDATA[AI 现在能替你操作电脑了]]></title>
                 <itunes:title><![CDATA[AI 现在能替你操作电脑了]]></itunes:title>
                 <description>
@@ -60,7 +81,7 @@ Keep wondering, keep learning, keep listening.</itunes:summary>
                 <enclosure
                         length="19710765"
                         type="audio/x-m4a"
-                        url="https://jt.ximalaya.com//GKwRIUEO3TMrAJgwKwUBX2VJ.m4a?channel=rss&amp;album_id=132235876&amp;track_id=1035679635&amp;uid=115661319&amp;jt=https://aod.cos.tx.xmcdn.com/storages/d521-audiofreehighqps/36/66/GKwRIUEO3TMrAJgwKwUBX2VJ.m4a"
+                        url="https://jt.ximalaya.com//GKwRIUEO3TMrAJgwKwUBX2VJ.m4a?channel=rss&amp;album_id=132235876&amp;track_id=1035679635&amp;uid=115661319&amp;jt=https://podcast.xmcdn.com/storages/d521-audiofreehighqps/36/66/GKwRIUEO3TMrAJgwKwUBX2VJ.m4a"
                 />
                 <guid>xmly_track_1035679635</guid>
                 <pubDate>Wed, 25 Nov 2026 23:32:33 GMT</pubDate>
@@ -72,7 +93,7 @@ Keep wondering, keep learning, keep listening.</itunes:summary>
             </item>
             <item>
                 <itunes:episodeType>full</itunes:episodeType>
-                    <itunes:episode>3</itunes:episode>
+                    <itunes:episode>4</itunes:episode>
                 <title><![CDATA[AI股票一天暴跌，纳斯达克把今年的涨幅全吐回去了]]></title>
                 <itunes:title><![CDATA[AI股票一天暴跌，纳斯达克把今年的涨幅全吐回去了]]></itunes:title>
                 <description>
@@ -81,7 +102,7 @@ Keep wondering, keep learning, keep listening.</itunes:summary>
                 <enclosure
                         length="20318253"
                         type="audio/x-m4a"
-                        url="https://jt.ximalaya.com//GKwRIaIO2-GQAJzf4wUAzrR6.m4a?channel=rss&amp;album_id=132235876&amp;track_id=1035421461&amp;uid=115661319&amp;jt=https://aod.cos.tx.xmcdn.com/storages/a84a-audiofreehighqps/E2/09/GKwRIaIO2-GQAJzf4wUAzrR6.m4a"
+                        url="https://jt.ximalaya.com//GKwRIaIO2-GQAJzf4wUAzrR6.m4a?channel=rss&amp;album_id=132235876&amp;track_id=1035421461&amp;uid=115661319&amp;jt=https://podcast.xmcdn.com/storages/a84a-audiofreehighqps/E2/09/GKwRIaIO2-GQAJzf4wUAzrR6.m4a"
                 />
                 <guid>xmly_track_1035421461</guid>
                 <pubDate>Tue, 24 Nov 2026 23:32:02 GMT</pubDate>
@@ -93,7 +114,7 @@ Keep wondering, keep learning, keep listening.</itunes:summary>
             </item>
             <item>
                 <itunes:episodeType>full</itunes:episodeType>
-                    <itunes:episode>4</itunes:episode>
+                    <itunes:episode>5</itunes:episode>
                 <title><![CDATA[AI眼镜来了，但有人说：先别买]]></title>
                 <itunes:title><![CDATA[AI眼镜来了，但有人说：先别买]]></itunes:title>
                 <description>
@@ -102,7 +123,7 @@ Keep wondering, keep learning, keep listening.</itunes:summary>
                 <enclosure
                         length="22867629"
                         type="audio/x-m4a"
-                        url="https://jt.ximalaya.com//GKwRIJIO2o_hALCOFQUASrNF.m4a?channel=rss&amp;album_id=132235876&amp;track_id=1035129884&amp;uid=115661319&amp;jt=https://aod.cos.tx.xmcdn.com/storages/965a-audiofreehighqps/75/CE/GKwRIJIO2o_hALCOFQUASrNF.m4a"
+                        url="https://jt.ximalaya.com//GKwRIJIO2o_hALCOFQUASrNF.m4a?channel=rss&amp;album_id=132235876&amp;track_id=1035129884&amp;uid=115661319&amp;jt=https://podcast.xmcdn.com/storages/965a-audiofreehighqps/75/CE/GKwRIJIO2o_hALCOFQUASrNF.m4a"
                 />
                 <guid>xmly_track_1035129884</guid>
                 <pubDate>Mon, 23 Nov 2026 23:31:08 GMT</pubDate>
@@ -114,7 +135,7 @@ Keep wondering, keep learning, keep listening.</itunes:summary>
             </item>
             <item>
                 <itunes:episodeType>full</itunes:episodeType>
-                    <itunes:episode>5</itunes:episode>
+                    <itunes:episode>6</itunes:episode>
                 <title><![CDATA[AI 造了一个世界，你可以走进去改它]]></title>
                 <itunes:title><![CDATA[AI 造了一个世界，你可以走进去改它]]></itunes:title>
                 <description>
@@ -123,7 +144,7 @@ Keep wondering, keep learning, keep listening.</itunes:summary>
                 <enclosure
                         length="20587053"
                         type="audio/x-m4a"
-                        url="https://jt.ximalaya.com//GKwRIJEO2T5UAJ7zdQT_tvcz.m4a?channel=rss&amp;album_id=132235876&amp;track_id=1034803546&amp;uid=115661319&amp;jt=https://aod.cos.tx.xmcdn.com/storages/f00e-audiofreehighqps/34/A8/GKwRIJEO2T5UAJ7zdQT_tvcz.m4a"
+                        url="https://jt.ximalaya.com//GKwRIJEO2T5UAJ7zdQT_tvcz.m4a?channel=rss&amp;album_id=132235876&amp;track_id=1034803546&amp;uid=115661319&amp;jt=https://podcast.xmcdn.com/storages/f00e-audiofreehighqps/34/A8/GKwRIJEO2T5UAJ7zdQT_tvcz.m4a"
                 />
                 <guid>xmly_track_1034803546</guid>
                 <pubDate>Sun, 22 Nov 2026 23:30:58 GMT</pubDate>
@@ -135,7 +156,7 @@ Keep wondering, keep learning, keep listening.</itunes:summary>
             </item>
             <item>
                 <itunes:episodeType>full</itunes:episodeType>
-                    <itunes:episode>6</itunes:episode>
+                    <itunes:episode>7</itunes:episode>
                 <title><![CDATA[英伟达赚翻了，但老板刚走]]></title>
                 <itunes:title><![CDATA[英伟达赚翻了，但老板刚走]]></itunes:title>
                 <description>
@@ -144,7 +165,7 @@ Keep wondering, keep learning, keep listening.</itunes:summary>
                 <enclosure
                         length="20514861"
                         type="audio/x-m4a"
-                        url="https://jt.ximalaya.com//GKwRIW4O1-0SAJ5lAwT_K3WC.m4a?channel=rss&amp;album_id=132235876&amp;track_id=1034612632&amp;uid=115661319&amp;jt=https://aod.cos.tx.xmcdn.com/storages/9d02-audiofreehighqps/99/D0/GKwRIW4O1-0SAJ5lAwT_K3WC.m4a"
+                        url="https://jt.ximalaya.com//GKwRIW4O1-0SAJ5lAwT_K3WC.m4a?channel=rss&amp;album_id=132235876&amp;track_id=1034612632&amp;uid=115661319&amp;jt=https://podcast.xmcdn.com/storages/9d02-audiofreehighqps/99/D0/GKwRIW4O1-0SAJ5lAwT_K3WC.m4a"
                 />
                 <guid>xmly_track_1034612632</guid>
                 <pubDate>Sat, 21 Nov 2026 23:32:08 GMT</pubDate>
@@ -156,7 +177,7 @@ Keep wondering, keep learning, keep listening.</itunes:summary>
             </item>
             <item>
                 <itunes:episodeType>full</itunes:episodeType>
-                    <itunes:episode>7</itunes:episode>
+                    <itunes:episode>8</itunes:episode>
                 <title><![CDATA[问 AI 健康问题，答案可信吗？]]></title>
                 <itunes:title><![CDATA[问 AI 健康问题，答案可信吗？]]></itunes:title>
                 <description>
@@ -165,7 +186,7 @@ Keep wondering, keep learning, keep listening.</itunes:summary>
                 <enclosure
                         length="21019053"
                         type="audio/x-m4a"
-                        url="https://jt.ximalaya.com//GKwRIW4O1ptSAKJInQT-pQFg.m4a?channel=rss&amp;album_id=132235876&amp;track_id=1034429003&amp;uid=115661319&amp;jt=https://aod.cos.tx.xmcdn.com/storages/292f-audiofreehighqps/29/4F/GKwRIW4O1ptSAKJInQT-pQFg.m4a"
+                        url="https://jt.ximalaya.com//GKwRIW4O1ptSAKJInQT-pQFg.m4a?channel=rss&amp;album_id=132235876&amp;track_id=1034429003&amp;uid=115661319&amp;jt=https://podcast.xmcdn.com/storages/292f-audiofreehighqps/29/4F/GKwRIW4O1ptSAKJInQT-pQFg.m4a"
                 />
                 <guid>xmly_track_1034429003</guid>
                 <pubDate>Fri, 20 Nov 2026 23:31:03 GMT</pubDate>
@@ -177,7 +198,7 @@ Keep wondering, keep learning, keep listening.</itunes:summary>
             </item>
             <item>
                 <itunes:episodeType>full</itunes:episodeType>
-                    <itunes:episode>8</itunes:episode>
+                    <itunes:episode>9</itunes:episode>
                 <title><![CDATA[谷歌的 AI 能看你的账单了]]></title>
                 <itunes:title><![CDATA[谷歌的 AI 能看你的账单了]]></itunes:title>
                 <description>
@@ -186,7 +207,7 @@ Keep wondering, keep learning, keep listening.</itunes:summary>
                 <enclosure
                         length="20797485"
                         type="audio/x-m4a"
-                        url="https://jt.ximalaya.com//GKwRIJEO1UpiAKCTBQT-G0pN.m4a?channel=rss&amp;album_id=132235876&amp;track_id=1034183659&amp;uid=115661319&amp;jt=https://aod.cos.tx.xmcdn.com/storages/a5c2-audiofreehighqps/3F/A5/GKwRIJEO1UpiAKCTBQT-G0pN.m4a"
+                        url="https://jt.ximalaya.com//GKwRIJEO1UpiAKCTBQT-G0pN.m4a?channel=rss&amp;album_id=132235876&amp;track_id=1034183659&amp;uid=115661319&amp;jt=https://podcast.xmcdn.com/storages/a5c2-audiofreehighqps/3F/A5/GKwRIJEO1UpiAKCTBQT-G0pN.m4a"
                 />
                 <guid>xmly_track_1034183659</guid>
                 <pubDate>Thu, 19 Nov 2026 23:33:08 GMT</pubDate>
@@ -198,7 +219,7 @@ Keep wondering, keep learning, keep listening.</itunes:summary>
             </item>
             <item>
                 <itunes:episodeType>full</itunes:episodeType>
-                    <itunes:episode>9</itunes:episode>
+                    <itunes:episode>10</itunes:episode>
                 <title><![CDATA[微软宕机一整天，全世界的邮箱都停了]]></title>
                 <itunes:title><![CDATA[微软宕机一整天，全世界的邮箱都停了]]></itunes:title>
                 <description>
@@ -207,7 +228,7 @@ Keep wondering, keep learning, keep listening.</itunes:summary>
                 <enclosure
                         length="21427629"
                         type="audio/x-m4a"
-                        url="https://jt.ximalaya.com//GKwRIDoO0_g6AKVwQQT9kLt4.m4a?channel=rss&amp;album_id=132235876&amp;track_id=1033936555&amp;uid=115661319&amp;jt=https://aod.cos.tx.xmcdn.com/storages/d264-audiofreehighqps/ED/35/GKwRIDoO0_g6AKVwQQT9kLt4.m4a"
+                        url="https://jt.ximalaya.com//GKwRIDoO0_g6AKVwQQT9kLt4.m4a?channel=rss&amp;album_id=132235876&amp;track_id=1033936555&amp;uid=115661319&amp;jt=https://podcast.xmcdn.com/storages/d264-audiofreehighqps/ED/35/GKwRIDoO0_g6AKVwQQT9kLt4.m4a"
                 />
                 <guid>xmly_track_1033936555</guid>
                 <pubDate>Wed, 18 Nov 2026 23:30:17 GMT</pubDate>
@@ -219,7 +240,7 @@ Keep wondering, keep learning, keep listening.</itunes:summary>
             </item>
             <item>
                 <itunes:episodeType>full</itunes:episodeType>
-                    <itunes:episode>10</itunes:episode>
+                    <itunes:episode>11</itunes:episode>
                 <title><![CDATA[ChatGPT 会替你付钱了，但它看不到你的卡号]]></title>
                 <itunes:title><![CDATA[ChatGPT 会替你付钱了，但它看不到你的卡号]]></itunes:title>
                 <description>
@@ -228,7 +249,7 @@ Keep wondering, keep learning, keep listening.</itunes:summary>
                 <enclosure
                         length="22562733"
                         type="audio/x-m4a"
-                        url="https://jt.ximalaya.com//GKwRIRwO0qdPAK40BgT9CN1Y.m4a?channel=rss&amp;album_id=132235876&amp;track_id=1033677763&amp;uid=115661319&amp;jt=https://aod.cos.tx.xmcdn.com/storages/548e-audiofreehighqps/D1/C8/GKwRIRwO0qdPAK40BgT9CN1Y.m4a"
+                        url="https://jt.ximalaya.com//GKwRIRwO0qdPAK40BgT9CN1Y.m4a?channel=rss&amp;album_id=132235876&amp;track_id=1033677763&amp;uid=115661319&amp;jt=https://podcast.xmcdn.com/storages/548e-audiofreehighqps/D1/C8/GKwRIRwO0qdPAK40BgT9CN1Y.m4a"
                 />
                 <guid>xmly_track_1033677763</guid>
                 <pubDate>Tue, 17 Nov 2026 23:32:45 GMT</pubDate>
@@ -240,7 +261,7 @@ Keep wondering, keep learning, keep listening.</itunes:summary>
             </item>
             <item>
                 <itunes:episodeType>full</itunes:episodeType>
-                    <itunes:episode>11</itunes:episode>
+                    <itunes:episode>12</itunes:episode>
                 <title><![CDATA[AI坐进你的视频会议，替你记笔记]]></title>
                 <itunes:title><![CDATA[AI坐进你的视频会议，替你记笔记]]></itunes:title>
                 <description>
@@ -249,7 +270,7 @@ Keep wondering, keep learning, keep listening.</itunes:summary>
                 <enclosure
                         length="23343021"
                         type="audio/x-m4a"
-                        url="https://jt.ximalaya.com//GKwRIMAO0OY_ALQ54gT8cEcb.m4a?channel=rss&amp;album_id=132235876&amp;track_id=1033255861&amp;uid=115661319&amp;jt=https://aod.cos.tx.xmcdn.com/storages/c2fa-audiofreehighqps/53/D1/GKwRIMAO0OY_ALQ54gT8cEcb.m4a"
+                        url="https://jt.ximalaya.com//GKwRIMAO0OY_ALQ54gT8cEcb.m4a?channel=rss&amp;album_id=132235876&amp;track_id=1033255861&amp;uid=115661319&amp;jt=https://podcast.xmcdn.com/storages/c2fa-audiofreehighqps/53/D1/GKwRIMAO0OY_ALQ54gT8cEcb.m4a"
                 />
                 <guid>xmly_track_1033255861</guid>
                 <pubDate>Mon, 16 Nov 2026 15:36:48 GMT</pubDate>
@@ -261,7 +282,7 @@ Keep wondering, keep learning, keep listening.</itunes:summary>
             </item>
             <item>
                 <itunes:episodeType>full</itunes:episodeType>
-                    <itunes:episode>12</itunes:episode>
+                    <itunes:episode>13</itunes:episode>
                 <title><![CDATA[阿里 Qwen4 来了，先出的是预览版]]></title>
                 <itunes:title><![CDATA[阿里 Qwen4 来了，先出的是预览版]]></itunes:title>
                 <description>
@@ -270,7 +291,7 @@ Keep wondering, keep learning, keep listening.</itunes:summary>
                 <enclosure
                         length="23381421"
                         type="audio/x-m4a"
-                        url="https://jt.ximalaya.com//GKwRIMAO0FD6ALSGPQT8E0Bt.m4a?channel=rss&amp;album_id=132235876&amp;track_id=1033045370&amp;uid=115661319&amp;jt=https://aod.cos.tx.xmcdn.com/storages/7cd1-audiofreehighqps/3A/F1/GKwRIMAO0FD6ALSGPQT8E0Bt.m4a"
+                        url="https://jt.ximalaya.com//GKwRIMAO0FD6ALSGPQT8E0Bt.m4a?channel=rss&amp;album_id=132235876&amp;track_id=1033045370&amp;uid=115661319&amp;jt=https://podcast.xmcdn.com/storages/7cd1-audiofreehighqps/3A/F1/GKwRIMAO0FD6ALSGPQT8E0Bt.m4a"
                 />
                 <guid>xmly_track_1033045370</guid>
                 <pubDate>Mon, 16 Nov 2026 04:59:44 GMT</pubDate>
@@ -282,7 +303,7 @@ Keep wondering, keep learning, keep listening.</itunes:summary>
             </item>
             <item>
                 <itunes:episodeType>full</itunes:episodeType>
-                    <itunes:episode>13</itunes:episode>
+                    <itunes:episode>14</itunes:episode>
                 <title><![CDATA[Anthropic 要上市了——一家 AI 公司值多少钱？]]></title>
                 <itunes:title><![CDATA[Anthropic 要上市了——一家 AI 公司值多少钱？]]></itunes:title>
                 <description>
@@ -291,7 +312,7 @@ Keep wondering, keep learning, keep listening.</itunes:summary>
                 <enclosure
                         length="19881261"
                         type="audio/x-m4a"
-                        url="https://jt.ximalaya.com//GKwRIaIOzrQ7AJmAcQT7eGvh.m4a?channel=rss&amp;album_id=132235876&amp;track_id=1032800055&amp;uid=115661319&amp;jt=https://aod.cos.tx.xmcdn.com/storages/ac53-audiofreehighqps/04/47/GKwRIaIOzrQ7AJmAcQT7eGvh.m4a"
+                        url="https://jt.ximalaya.com//GKwRIaIOzrQ7AJmAcQT7eGvh.m4a?channel=rss&amp;album_id=132235876&amp;track_id=1032800055&amp;uid=115661319&amp;jt=https://podcast.xmcdn.com/storages/ac53-audiofreehighqps/04/47/GKwRIaIOzrQ7AJmAcQT7eGvh.m4a"
                 />
                 <guid>xmly_track_1032800055</guid>
                 <pubDate>Sat, 14 Nov 2026 23:38:55 GMT</pubDate>
@@ -303,7 +324,7 @@ Keep wondering, keep learning, keep listening.</itunes:summary>
             </item>
             <item>
                 <itunes:episodeType>full</itunes:episodeType>
-                    <itunes:episode>14</itunes:episode>
+                    <itunes:episode>15</itunes:episode>
                 <title><![CDATA[AI 需要护栏吗？]]></title>
                 <itunes:title><![CDATA[AI 需要护栏吗？]]></itunes:title>
                 <description>
@@ -312,7 +333,7 @@ Keep wondering, keep learning, keep listening.</itunes:summary>
                 <enclosure
                         length="10724205"
                         type="audio/x-m4a"
-                        url="https://jt.ximalaya.com//GKwRIRwOzio8AKWa1wT7UqfR.m4a?channel=rss&amp;album_id=132235876&amp;track_id=1032693793&amp;uid=115661319&amp;jt=https://aod.cos.tx.xmcdn.com/storages/00bd-audiofreehighqps/61/4B/GKwRIRwOzio8AKWa1wT7UqfR.m4a"
+                        url="https://jt.ximalaya.com//GKwRIRwOzio8AKWa1wT7UqfR.m4a?channel=rss&amp;album_id=132235876&amp;track_id=1032693793&amp;uid=115661319&amp;jt=https://podcast.xmcdn.com/storages/00bd-audiofreehighqps/61/4B/GKwRIRwOzio8AKWa1wT7UqfR.m4a"
                 />
                 <guid>xmly_track_1032693793</guid>
                 <pubDate>Sat, 14 Nov 2026 13:50:08 GMT</pubDate>
@@ -324,7 +345,7 @@ Keep wondering, keep learning, keep listening.</itunes:summary>
             </item>
             <item>
                 <itunes:episodeType>full</itunes:episodeType>
-                    <itunes:episode>15</itunes:episode>
+                    <itunes:episode>16</itunes:episode>
                 <title><![CDATA[Siri 要学会帮你办事了]]></title>
                 <itunes:title><![CDATA[Siri 要学会帮你办事了]]></itunes:title>
                 <description>
@@ -333,7 +354,7 @@ Keep wondering, keep learning, keep listening.</itunes:summary>
                 <enclosure
                         length="12178797"
                         type="audio/x-m4a"
-                        url="https://jt.ximalaya.com//GKwRIDoOzA93ALwPxQT6dbOc.m4a?channel=rss&amp;album_id=132235876&amp;track_id=1032268052&amp;uid=115661319&amp;jt=https://aod.cos.tx.xmcdn.com/storages/93f7-audiofreehighqps/9D/B7/GKwRIDoOzA93ALwPxQT6dbOc.m4a"
+                        url="https://jt.ximalaya.com//GKwRIDoOzA93ALwPxQT6dbOc.m4a?channel=rss&amp;album_id=132235876&amp;track_id=1032268052&amp;uid=115661319&amp;jt=https://podcast.xmcdn.com/storages/93f7-audiofreehighqps/9D/B7/GKwRIDoOzA93ALwPxQT6dbOc.m4a"
                 />
                 <guid>xmly_track_1032268052</guid>
                 <pubDate>Thu, 12 Nov 2026 23:31:22 GMT</pubDate>
@@ -345,7 +366,7 @@ Keep wondering, keep learning, keep listening.</itunes:summary>
             </item>
             <item>
                 <itunes:episodeType>full</itunes:episodeType>
-                    <itunes:episode>16</itunes:episode>
+                    <itunes:episode>17</itunes:episode>
                 <title><![CDATA[OpenAI 融到 110 亿美元，到底值多少钱？]]></title>
                 <itunes:title><![CDATA[OpenAI 融到 110 亿美元，到底值多少钱？]]></itunes:title>
                 <description>
@@ -354,7 +375,7 @@ Keep wondering, keep learning, keep listening.</itunes:summary>
                 <enclosure
                         length="11986413"
                         type="audio/x-m4a"
-                        url="https://jt.ximalaya.com//GKwRIW4Oyr4cALkXHgT59Lf0.m4a?channel=rss&amp;album_id=132235876&amp;track_id=1032050828&amp;uid=115661319&amp;jt=https://aod.cos.tx.xmcdn.com/storages/4eeb-audiofreehighqps/CD/70/GKwRIW4Oyr4cALkXHgT59Lf0.m4a"
+                        url="https://jt.ximalaya.com//GKwRIW4Oyr4cALkXHgT59Lf0.m4a?channel=rss&amp;album_id=132235876&amp;track_id=1032050828&amp;uid=115661319&amp;jt=https://podcast.xmcdn.com/storages/4eeb-audiofreehighqps/CD/70/GKwRIW4Oyr4cALkXHgT59Lf0.m4a"
                 />
                 <guid>xmly_track_1032050828</guid>
                 <pubDate>Wed, 11 Nov 2026 23:32:06 GMT</pubDate>
@@ -366,7 +387,7 @@ Keep wondering, keep learning, keep listening.</itunes:summary>
             </item>
             <item>
                 <itunes:episodeType>full</itunes:episodeType>
-                    <itunes:episode>17</itunes:episode>
+                    <itunes:episode>18</itunes:episode>
                 <title><![CDATA[AI 学会了阿姆的歌——它问过吗？]]></title>
                 <itunes:title><![CDATA[AI 学会了阿姆的歌——它问过吗？]]></itunes:title>
                 <description>
@@ -375,7 +396,7 @@ Keep wondering, keep learning, keep listening.</itunes:summary>
                 <enclosure
                         length="12419541"
                         type="audio/x-m4a"
-                        url="https://jt.ximalaya.com//GKwRIJIOyW4WAMLKPQT5b1ra.m4a?channel=rss&amp;album_id=132235876&amp;track_id=1031822282&amp;uid=115661319&amp;jt=https://aod.cos.tx.xmcdn.com/storages/5a3a-audiofreehighqps/E3/A4/GKwRIJIOyW4WAMLKPQT5b1ra.m4a"
+                        url="https://jt.ximalaya.com//GKwRIJIOyW4WAMLKPQT5b1ra.m4a?channel=rss&amp;album_id=132235876&amp;track_id=1031822282&amp;uid=115661319&amp;jt=https://podcast.xmcdn.com/storages/5a3a-audiofreehighqps/E3/A4/GKwRIJIOyW4WAMLKPQT5b1ra.m4a"
                 />
                 <guid>xmly_track_1031822282</guid>
                 <pubDate>Tue, 10 Nov 2026 23:38:27 GMT</pubDate>
@@ -387,7 +408,7 @@ Keep wondering, keep learning, keep listening.</itunes:summary>
             </item>
             <item>
                 <itunes:episodeType>full</itunes:episodeType>
-                    <itunes:episode>18</itunes:episode>
+                    <itunes:episode>19</itunes:episode>
                 <title><![CDATA[Google 花 170 亿美元，在怀俄明州慢慢种一棵树]]></title>
                 <itunes:title><![CDATA[Google 花 170 亿美元，在怀俄明州慢慢种一棵树]]></itunes:title>
                 <description>
@@ -396,7 +417,7 @@ Keep wondering, keep learning, keep listening.</itunes:summary>
                 <enclosure
                         length="12095085"
                         type="audio/x-m4a"
-                        url="https://jt.ximalaya.com//GKwRIaIOyBvvALrFXQT40UTm.m4a?channel=rss&amp;album_id=132235876&amp;track_id=1031578726&amp;uid=115661319&amp;jt=https://aod.cos.tx.xmcdn.com/storages/d502-audiofreehighqps/A0/53/GKwRIaIOyBvvALrFXQT40UTm.m4a"
+                        url="https://jt.ximalaya.com//GKwRIaIOyBvvALrFXQT40UTm.m4a?channel=rss&amp;album_id=132235876&amp;track_id=1031578726&amp;uid=115661319&amp;jt=https://podcast.xmcdn.com/storages/d502-audiofreehighqps/A0/53/GKwRIaIOyBvvALrFXQT40UTm.m4a"
                 />
                 <guid>xmly_track_1031578726</guid>
                 <pubDate>Mon, 09 Nov 2026 23:35:32 GMT</pubDate>
@@ -408,7 +429,7 @@ Keep wondering, keep learning, keep listening.</itunes:summary>
             </item>
             <item>
                 <itunes:episodeType>full</itunes:episodeType>
-                    <itunes:episode>19</itunes:episode>
+                    <itunes:episode>20</itunes:episode>
                 <title><![CDATA[AI短剧新规：扶持真人剧，规范AI剧]]></title>
                 <itunes:title><![CDATA[AI短剧新规：扶持真人剧，规范AI剧]]></itunes:title>
                 <description>
@@ -417,7 +438,7 @@ Keep wondering, keep learning, keep listening.</itunes:summary>
                 <enclosure
                         length="12424557"
                         type="audio/x-m4a"
-                        url="https://jt.ximalaya.com//GKwRIJEOxvpNAL_aZwT4TOO0.m4a?channel=rss&amp;album_id=132235876&amp;track_id=1031319631&amp;uid=115661319&amp;jt=https://aod.cos.tx.xmcdn.com/storages/89d3-audiofreehighqps/1C/9F/GKwRIJEOxvpNAL_aZwT4TOO0.m4a"
+                        url="https://jt.ximalaya.com//GKwRIJEOxvpNAL_aZwT4TOO0.m4a?channel=rss&amp;album_id=132235876&amp;track_id=1031319631&amp;uid=115661319&amp;jt=https://podcast.xmcdn.com/storages/89d3-audiofreehighqps/1C/9F/GKwRIJEOxvpNAL_aZwT4TOO0.m4a"
                 />
                 <guid>xmly_track_1031319631</guid>
                 <pubDate>Mon, 09 Nov 2026 02:59:41 GMT</pubDate>
@@ -429,7 +450,7 @@ Keep wondering, keep learning, keep listening.</itunes:summary>
             </item>
             <item>
                 <itunes:episodeType>full</itunes:episodeType>
-                    <itunes:episode>20</itunes:episode>
+                    <itunes:episode>21</itunes:episode>
                 <title><![CDATA[AI 股价一天大跌：风险到底是什么？]]></title>
                 <itunes:title><![CDATA[AI 股价一天大跌：风险到底是什么？]]></itunes:title>
                 <description>
@@ -438,7 +459,7 @@ Keep wondering, keep learning, keep listening.</itunes:summary>
                 <enclosure
                         length="12442029"
                         type="audio/x-m4a"
-                        url="https://jt.ximalaya.com//GKwRIaIOxQaiAMAfaQT3nfWa.m4a?channel=rss&amp;album_id=132235876&amp;track_id=1030993737&amp;uid=115661319&amp;jt=https://aod.cos.tx.xmcdn.com/storages/819f-audiofreehighqps/CC/C9/GKwRIaIOxQaiAMAfaQT3nfWa.m4a"
+                        url="https://jt.ximalaya.com//GKwRIaIOxQaiAMAfaQT3nfWa.m4a?channel=rss&amp;album_id=132235876&amp;track_id=1030993737&amp;uid=115661319&amp;jt=https://podcast.xmcdn.com/storages/819f-audiofreehighqps/CC/C9/GKwRIaIOxQaiAMAfaQT3nfWa.m4a"
                 />
                 <guid>xmly_track_1030993737</guid>
                 <pubDate>Sun, 08 Nov 2026 00:30:00 GMT</pubDate>
@@ -450,7 +471,7 @@ Keep wondering, keep learning, keep listening.</itunes:summary>
             </item>
             <item>
                 <itunes:episodeType>full</itunes:episodeType>
-                    <itunes:episode>21</itunes:episode>
+                    <itunes:episode>22</itunes:episode>
                 <title><![CDATA[AI 停止按钮：给 AI 助手装个刹车]]></title>
                 <itunes:title><![CDATA[AI 停止按钮：给 AI 助手装个刹车]]></itunes:title>
                 <description>
@@ -459,7 +480,7 @@ Keep wondering, keep learning, keep listening.</itunes:summary>
                 <enclosure
                         length="12376941"
                         type="audio/x-m4a"
-                        url="https://jt.ximalaya.com//GKwRIRwOwjDhAL8ecQT2WYEh.m4a?channel=rss&amp;album_id=132235876&amp;track_id=1030506304&amp;uid=115661319&amp;jt=https://aod.cos.tx.xmcdn.com/storages/c995-audiofreehighqps/6B/75/GKwRIRwOwjDhAL8ecQT2WYEh.m4a"
+                        url="https://jt.ximalaya.com//GKwRIRwOwjDhAL8ecQT2WYEh.m4a?channel=rss&amp;album_id=132235876&amp;track_id=1030506304&amp;uid=115661319&amp;jt=https://podcast.xmcdn.com/storages/c995-audiofreehighqps/6B/75/GKwRIRwOwjDhAL8ecQT2WYEh.m4a"
                 />
                 <guid>xmly_track_1030506304</guid>
                 <pubDate>Thu, 05 Nov 2026 11:51:14 GMT</pubDate>
